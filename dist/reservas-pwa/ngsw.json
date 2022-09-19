@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1663602844828,
+  "timestamp": 1663627724853,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.e79290a3ce38bac3.js",
+        "/main.946baa2dd6486069.js",
         "/manifest.webmanifest",
         "/polyfills.ba3a0b9321256fee.js",
         "/runtime.95f72539542bab72.js",
-        "/styles.2428aff4b5d35682.css"
+        "/styles.617e16497bac794f.css"
       ],
       "patterns": []
     },
@@ -58,12 +58,12 @@
     "/assets/logo.png": "057a930cf9bec840f8e6fdb09b9fc1c9a5d2b246",
     "/assets/teatro.png": "76a7f4a189694828db66e4c95d6a325f16407cde",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "647dece465a68e707808e28122ce14eea94c39bc",
-    "/main.e79290a3ce38bac3.js": "37d019c525a0645bb5432b1a477c67c3b6a43fec",
+    "/index.html": "bc9ac177a9648f3f5c144c9b88401f68dbf7afa2",
+    "/main.946baa2dd6486069.js": "779c3a0999336890e805ec846134c6f4216306aa",
     "/manifest.webmanifest": "4b504359ec693eb403a1981b4c24a51136c5937f",
     "/polyfills.ba3a0b9321256fee.js": "1a0e692da2b81e9e376f9c8a7c8a26c70d63680a",
     "/runtime.95f72539542bab72.js": "645f8bc73648b228651420395c6a8bd07227e873",
-    "/styles.2428aff4b5d35682.css": "d4d1c1ab6b31ccc6a5a4a540b28dc38f0ccae4d1"
+    "/styles.617e16497bac794f.css": "0cf697d6363dc4bfb4823098d2024cbdf061c549"
   },
   "navigationUrls": [
     {
