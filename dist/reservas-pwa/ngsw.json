@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1663627724853,
+  "timestamp": 1663785832729,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.946baa2dd6486069.js",
+        "/main.59443aecd40d740e.js",
         "/manifest.webmanifest",
         "/polyfills.ba3a0b9321256fee.js",
         "/runtime.95f72539542bab72.js",
@@ -46,7 +46,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/PrimerEncuentro.png": "e7304691a5c08dba4f63dd1079f469ee441b9896",
+    "/assets/PrimerEncuentro.png": "b295627411056decab0688d188b618e8af1a0394",
     "/assets/icons/icon-128x128.png": "e5f83909dc531fc3acc28fbe5e61b0097b3767e7",
     "/assets/icons/icon-144x144.png": "6a3fdfbb601a67f129a8e593ca664677642f8477",
     "/assets/icons/icon-152x152.png": "15779b31038bd376ccc77fe031b7fdf5114f86fe",
@@ -55,12 +55,12 @@
     "/assets/icons/icon-512x512.png": "76a8fd8f10cc21ba2a3804f8504bd80504cef02b",
     "/assets/icons/icon-72x72.png": "e09e67da96ebdec120d9e5c7bfd578f148739bf9",
     "/assets/icons/icon-96x96.png": "f624a30b88a08cbc6855d11705d520fd811d9338",
-    "/assets/logo.png": "057a930cf9bec840f8e6fdb09b9fc1c9a5d2b246",
+    "/assets/logo.png": "1b74cca75c590e7f0c473b94989e7a081ddb10d2",
     "/assets/teatro.png": "76a7f4a189694828db66e4c95d6a325f16407cde",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "bc9ac177a9648f3f5c144c9b88401f68dbf7afa2",
-    "/main.946baa2dd6486069.js": "779c3a0999336890e805ec846134c6f4216306aa",
-    "/manifest.webmanifest": "4b504359ec693eb403a1981b4c24a51136c5937f",
+    "/index.html": "a70f0947534dc6f1f9ddd1567178d6de186658c8",
+    "/main.59443aecd40d740e.js": "334ddfc915313f7a71e6d8837319a1fc2b1d849f",
+    "/manifest.webmanifest": "4a05c050c8c298ef0ea7b88a2cb5987c82cfeebf",
     "/polyfills.ba3a0b9321256fee.js": "1a0e692da2b81e9e376f9c8a7c8a26c70d63680a",
     "/runtime.95f72539542bab72.js": "645f8bc73648b228651420395c6a8bd07227e873",
     "/styles.617e16497bac794f.css": "0cf697d6363dc4bfb4823098d2024cbdf061c549"
